@@ -63,7 +63,7 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lut.im/ogVGfv4QCU/HoTyEvQGcwNSJ3eG.png" group-title="FILMES", MaxUp
+#EXTINF:-1 tvg-logo="https://lut.im/ogVGfv4QCU/HoTyEvQGcwNSJ3eG.png" group-title="FILMES 24h", MaxUp
 http://duost.ddns.me:19790/live/DSK94cdypL/nnnrhnV1Nv/86.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_744KXmFCyEo/TAWL5ViZKnI/AAAAAAAAAN4/z1PHYTeOvVM/s1600/fox-canal-logo-web-online-ao-vivo-streaming.png" group-title="FILMES 24h", Fox
