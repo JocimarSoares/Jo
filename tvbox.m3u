@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO",Globo
-http://95.141.32.213:8081/look/globo/playlist.m3u8
+http://95.141.32.213:8081/look/sptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
@@ -63,6 +63,8 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://lut.im/ogVGfv4QCU/HoTyEvQGcwNSJ3eG.png" group-title="FILMES", MaxUp
+http://duost.ddns.me:19790/live/DSK94cdypL/nnnrhnV1Nv/86.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_744KXmFCyEo/TAWL5ViZKnI/AAAAAAAAAN4/z1PHYTeOvVM/s1600/fox-canal-logo-web-online-ao-vivo-streaming.png" group-title="FILMES 24h", Fox
 http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
