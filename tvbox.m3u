@@ -118,11 +118,11 @@ http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CLIPs", Capital TiVù
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
+########################## RADIO ########################################
 
 
-
-#EXTINF:-1 tvg-logo="http://www.antena1.com.br/app/view/default/img/logo_antena1.jpg" group-title="RADIO", Radio antena 1 FM
-http://45.43.200.74:18104/stream
+#EXTINF:-1 tvg-logo="http://www.antena1.com.br/app/view/default/img/logo_antena1.jpg" group-title="RADIO", Antena1 FM
+http://51.254.243.74:80/stream2
 
 #EXTINF:-1 tvg-logo="http://galaxifm.com/images/f92f62d22223fbdbcd58fc19a089516f.png" group-title="RADIO", QTalk America
 http://173.192.105.231:8566/stream
@@ -133,3 +133,8 @@ http://185.45.248.12:8000/stream
 #EXTINF:-1 tvg-logo="http://galaxifm.com/images/f92f62d22223fbdbcd58fc19a089516f.png" group-title="RADIO", Pidi Radio
 http://94.23.148.11:8266/stream
 
+#EXTINF:-1 tvg-logo="http://galaxifm.com/images/f92f62d22223fbdbcd58fc19a089516f.png" group-title="RADIO", Radio Party A
+http://178.33.232.230:8005/stream
+
+#EXTINF:-1 tvg-logo="http://galaxifm.com/images/f92f62d22223fbdbcd58fc19a089516f.png" group-title="RADIO", Radio Party B
+http://176.31.240.87:8000/rp.mp3
