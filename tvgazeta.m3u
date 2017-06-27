@@ -1,4 +1,1 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO", TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
