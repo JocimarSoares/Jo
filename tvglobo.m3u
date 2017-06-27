@@ -1,4 +1,1 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO",Globo
 http://95.141.32.213:8081/look/sptv/playlist.m3u8
