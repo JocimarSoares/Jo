@@ -22,7 +22,7 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-e7KAcb-ykdA/AAAAAAAAAAI/AAAAAAAAAAA/P38AA_6r_Fg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANAL ABERTO", POLISHOP
 http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO", SHOPTIME
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-zia6sVM9sYc/WR0LRtWzShI/AAAAAAAA5mw/90CyMxXP5AgfpM4bnDiZUU-b4kj6csnAwCLcB/s1600/shoptime.png" group-title="CANAL ABERTO", SHOPTIME
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vCvDIjPGEOL74WH8BlFA/index-s32.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAL ABERTO",TV Escola
@@ -67,6 +67,8 @@ rtmp://200.198.37.134/live/livestream
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO", Futura
 http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://vectorlogofree.com/wp-content/uploads/2012/11/animal-planet-tv-vector-logo-400x400.png" group-title="CANAL ABERTO", ANIMAL PLANET
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lut.im/ogVGfv4QCU/HoTyEvQGcwNSJ3eG.png" group-title="FILMES 24h", MaxUp
