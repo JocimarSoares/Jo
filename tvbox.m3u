@@ -19,6 +19,12 @@ http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO", TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-e7KAcb-ykdA/AAAAAAAAAAI/AAAAAAAAAAA/P38AA_6r_Fg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANAL ABERTO", POLISHOP
+http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO", SHOPTIME
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vCvDIjPGEOL74WH8BlFA/index-s32.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAL ABERTO",TV Escola
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
