@@ -11,7 +11,7 @@ http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO", Band
-http://95.141.32.213:8081/look/band/playlist.m3u8
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="CANAL ABERTO",RedeTV!
 http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
