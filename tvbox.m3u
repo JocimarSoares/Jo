@@ -10,7 +10,7 @@ http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660
 http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO", Band
-http://138.197.145.226/loadbalance/agua1/chunks.m3u8
+http://138.197.145.226/loadbalance/agua1/chunks.m3u8?pxAuth=dLbR5h8V5wiRgyU2QVn9QGEjm3qYmMU3
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="CANAL ABERTO",RedeTV!
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
