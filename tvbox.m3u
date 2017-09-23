@@ -148,3 +148,20 @@ http://178.33.232.230:8005/stream
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Aqui Sertanejo
 http://170.75.144.242:13802/stream
 
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Axé Folia
+http://192.99.150.31:8305/stream
+
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", MGT Sertaneja
+http://144.217.31.169:80/1/stream
+
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Pagode
+http://192.99.150.31:9113/stream
+
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Rádio Sertanejão
+http://209.126.127.202:9382/stream
+
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Sertanejo Universitário
+http://192.99.150.31:9191/stream
+
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Super K FM
+http://144.217.64.13:7040/stream
