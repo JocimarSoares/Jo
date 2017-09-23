@@ -133,17 +133,18 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 #EXTINF:-1 tvg-logo="http://www.antena1.com.br/app/view/default/img/logo_antena1.jpg" group-title="RADIO", Antena1 FM
 http://51.254.243.74:80/stream2
 
-#EXTINF:-1 tvg-logo="http://galaxifm.com/images/f92f62d22223fbdbcd58fc19a089516f.png" group-title="RADIO", QTalk America
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", QTalk America
 http://173.192.105.231:8566/stream
 
-#EXTINF:-1 tvg-logo="http://galaxifm.com/images/f92f62d22223fbdbcd58fc19a089516f.png" group-title="RADIO", PRIDE1
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", PRIDE1
 http://185.45.248.12:8000/stream
 
-#EXTINF:-1 tvg-logo="http://galaxifm.com/images/f92f62d22223fbdbcd58fc19a089516f.png" group-title="RADIO", Pidi Radio
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Pidi Radio
 http://94.23.148.11:8266/stream
 
-#EXTINF:-1 tvg-logo="http://galaxifm.com/images/f92f62d22223fbdbcd58fc19a089516f.png" group-title="RADIO", Radio Party A
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Radio Party
 http://178.33.232.230:8005/stream
 
-#EXTINF:-1 tvg-logo="http://galaxifm.com/images/f92f62d22223fbdbcd58fc19a089516f.png" group-title="RADIO", Radio Party B
-http://176.31.240.87:8000/rp.mp3
+#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Aqui Sertanejo
+http://170.75.144.242:13802/stream
+
