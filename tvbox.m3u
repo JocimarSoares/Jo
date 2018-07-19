@@ -13,7 +13,7 @@ http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/index_720_av-p.m3u8?
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="CANAL ABERTO",RedeTV!
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO", TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
