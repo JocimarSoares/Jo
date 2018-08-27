@@ -51,12 +51,6 @@ http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Discovery_Channel_HD_2008.png" group-title="CANAL ABERTO", Discovery Channel
 https://sendvid.com/rjkoayp9.mp4
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="CANAL ABERTO", SporTV
-http://95.141.32.213:8081/look/sportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="CANAL ABERTO", ESPN Brasil
-http://5.79.68.138:8081/look/espnbr/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redefamilia.png" group-title="CANAL ABERTO", Rede Família
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 
