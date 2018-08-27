@@ -83,7 +83,23 @@ http://tv.ec.cx:1935/redecanais-stream-tnt/myStream/playlist.m3u8
 http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES", SPORTV 1
+http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES", SPORTV 2
+http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVA7-IhIhd5Bl-gNy9yh_Yaz3Qc9OIitnJyJpHcwxt393d67nL-g" group-title="ESPORTES", SPORTV 3
+http://apk2.futeboltvgratis.com:8081/live/7/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX Sports
+http://apk2.futeboltvgratis.com:8081/live/4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX Sports 2
+http://apk2.futeboltvgratis.com:8081/live/5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL
+http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lut.im/BgRU4QJFvj/Sv8nCJhyzW76S5sD.png" group-title="INFANTIL", Nickelodeon
