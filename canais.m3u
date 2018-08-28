@@ -4,7 +4,7 @@
 https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-240p/chunks.m3u8?md5=tPIDqrqZAZX8LXdE5qLq0Q&expires=1535468633
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Serra Dourada - (GO)
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8
+https://live-edge.pxstream.tv/hls2/discoverykids/chunks.m3u8?md5=297sg_M8MhdMTRQnguOIZQ&expires=1535469258
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal Caruaru (PE)
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
