@@ -103,14 +103,14 @@ http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/BgRU4QJFvj/Sv8nCJhyzW76S5sD.png" group-title="INFANTIL", Nickelodeon
 http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/discoverykids.png" group-title="INFANTIL", Discovery Kids
-http://5.79.68.138:8081/look/discoverykids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISCOVERY KIDS
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISNEY JR
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1068.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cartoon.png" group-title="INFANTIL", Cartoon Network
 http://95.211.149.215:8081/look/cartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/4F32KnFQFb/nDsYHifKpFOSceBQ.png" group-title="INFANTIL", Disney XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lut.im/sh1ip2DP5J/8jScIxZVtuPkIwxY.JPG" group-title="INFANTIL", Retrô Cartoon
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
