@@ -70,7 +70,7 @@ http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5080.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_744KXmFCyEo/TAWL5ViZKnI/AAAAAAAAAN4/z1PHYTeOvVM/s1600/fox-canal-logo-web-online-ao-vivo-streaming.png" group-title="FILMES 24h", Fox
-http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+https://cdn.whostreams.net:8443/hls/zq6ui.m3u8?s=wJcei2MXzdFWC1Nx5gu2eg&e=1535448879
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="FILMES 24h", TNT
 http://tv.ec.cx:1935/redecanais-stream-tnt/myStream/playlist.m3u8
