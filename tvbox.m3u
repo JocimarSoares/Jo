@@ -75,7 +75,7 @@ https://cdn.whostreams.net:8443/hls/zq6ui.m3u8?s=wJcei2MXzdFWC1Nx5gu2eg&e=153544
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="FILMES 24h", TNT
 https://live-edge.pxstream.tv/hls/tnthd/chunks.m3u8?md5=2XuwxmGysSbc8JKF9jWBdQ&expires=1535470777
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:HOMEVIDEOCOLOR_LOCL_POWERPT.png" group-title="FILMES 24h", Warner Bros
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="FILMES 24h", Warner Bros
 https://cdn.whostreams.net:8443/hls/2v3xnv3o5k.m3u8?s=PCwCipgh5kVoK36M9rzDSA&e=1535449450
 
 ############################################################ ESPORTES ##############################################################
