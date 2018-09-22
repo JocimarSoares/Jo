@@ -23,6 +23,8 @@ http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO", SHOPTIME
 
+#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",TV Cultura
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?ChannelsON
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAL ABERTO",TV Escola
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
