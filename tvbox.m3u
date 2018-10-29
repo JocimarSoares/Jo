@@ -1,7 +1,37 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:9
 #EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:13915
+
+
+#EXT-X-MEDIA-SEQUENCE:2774
+#EXTINF:2.467,
+l_492874_17016667_2774.ts
+#EXTINF:4,
+l_492874_17019134_2775.ts
+#EXTINF:1.9,
+l_492874_17023134_2776.ts
+#EXTINF:3.6,
+l_492874_17025034_2777.ts
+#EXTINF:8.333,
+l_492874_17028634_2778.ts
+#EXTINF:1.967,
+l_492874_17036967_2779.ts
+#EXTINF:3.233,
+l_492874_17038934_2780.ts
+#EXTINF:2.1,
+l_492874_17042167_2781.ts
+#EXTINF:8.333,
+l_492874_17044267_2782.ts
+#EXTINF:3.6,
+l_492874_17052600_2783.ts
+#EXTINF:3.834,
+l_492874_17056200_2784.ts
+#EXTINF:2.266,
+l_492874_17060034_2785.ts
+#EXTINF:3.4,
+l_492874_17062300_2786.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL ABERTO",Globo
 https://r3---sn-b8u-8pme.googlevideo.com/videoplayback?source=yt_live_broadcast&initcwndbps=485000&key=yt6&ipbits=0&itag=136&hang=1&id=DzI1NpUTkiw.1&mime=video%2Fmp4&aitags=133%2C134%2C135%2C136%2C160&pl=21&ms=lv&mt=1540773328&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&mv=m&ip=177.157.222.59&mm=32&mn=sn-b8u-8pme&gir=yes&expire=1540794981&live=1&c=WEB&keepalive=yes&noclen=1&signature=224D56379B54E2D32F0E434350F34847F164DF22.DDAAB0479EADB91E9C694720236F41BE606BF823&requiressl=yes&ei=BFbWW_rZOIm8xAS9-ZSoAg&gcr=br&cmbypass=yes
