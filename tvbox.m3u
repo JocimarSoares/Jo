@@ -99,7 +99,7 @@ http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 ############################################################ INFANTIL ##############################################################
 
 #EXTINF:-1 tvg-logo="https://lut.im/BgRU4QJFvj/Sv8nCJhyzW76S5sD.png" group-title="INFANTIL", Nickelodeon
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+https://rcc4.azureedge.net//hls1/nick.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISCOVERY KIDS
 http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1080.m3u8
