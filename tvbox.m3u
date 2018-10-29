@@ -102,7 +102,7 @@ http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 https://rcc4.azureedge.net//hls1/nick.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISCOVERY KIDS
-http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1080.m3u8
+https://rcc3.azureedge.net//hls1/disneyjunior.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISNEY JR
 http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1068.m3u8
