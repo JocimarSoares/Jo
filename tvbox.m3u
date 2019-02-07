@@ -1,32 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL ABERTO",Globo
-http://br.foxyform.com/form.php?id=160559&sec_hash=bb1a1b233f6
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?EDSONSOUSALIST
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvvitoria.png" group-title="CANAL ABERTO", Record
-http://www.assistirtvaovivo.tv/novo/player/?chid=cmVjb3Jk
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO", Band
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="CANAL ABERTO",RedeTV!
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="CANAL ABERTO", RedeTV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO", TV Gazeta
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO", POLISHOP
-http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO", SHOPTIME
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",TV Cultura
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAL ABERTO", TV Cultura
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?ChannelsON
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAL ABERTO",TV Escola
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAL ABERTO", TV Escola
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/amazonsat.png" group-title="CANAL ABERTO", AmazonSat
@@ -35,118 +24,26 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 #EXTINF:-1 tvg-logo="https://lut.im/92pOCiaEap/gXmhc5awJkTEX8S9.png" group-title="CANAL ABERTO", Rede New
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvguarany.png" group-title="CANAL ABERTO",TV Guarany
-http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/aparecidahd.png" group-title="CANAL ABERTO", TV Aparecida
-http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cancaonova.png" group-title="CANAL ABERTO", Canção Nova
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logo/globonews.png" group-title="CANAL ABERTO", GloboNews
-http://5.79.68.138:8081/look/globonews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO", Record News ES
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Discovery_Channel_HD_2008.png" group-title="CANAL ABERTO", Discovery Channel
-https://sendvid.com/rjkoayp9.mp4
-
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redefamilia.png" group-title="CANAL ABERTO", Rede Família
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://redeminas.tv/wp-content/uploads/2014/09/RedeMinas.png" group-title="CANAL ABERTO",Rede Minas
-rtmp://200.198.37.134/live/livestream
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO", Futura
-http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://vectorlogofree.com/wp-content/uploads/2012/11/animal-planet-tv-vector-logo-400x400.png" group-title="CANAL ABERTO", ANIMAL PLANET
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-
-############################################################ FILMES 24H ##############################################################
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_744KXmFCyEo/TAWL5ViZKnI/AAAAAAAAAN4/z1PHYTeOvVM/s1600/fox-canal-logo-web-online-ao-vivo-streaming.png" group-title="FILMES 24h", Fox
-https://cdn.whostreams.net:8443/hls/zq6ui.m3u8?s=wJcei2MXzdFWC1Nx5gu2eg&e=1535448879
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="FILMES 24h", TNT
-https://live-edge.pxstream.tv/hls/tnthd/chunks.m3u8?md5=2XuwxmGysSbc8JKF9jWBdQ&expires=1535470777
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="FILMES 24h", Warner Bros
-https://cdn.whostreams.net:8443/hls/2v3xnv3o5k.m3u8?s=PCwCipgh5kVoK36M9rzDSA&e=1535449450
-
-############################################################ ESPORTES ##############################################################
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES", SPORTV 1
-http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES", SPORTV 2
-http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVA7-IhIhd5Bl-gNy9yh_Yaz3Qc9OIitnJyJpHcwxt393d67nL-g" group-title="ESPORTES", SPORTV 3
-http://apk2.futeboltvgratis.com:8081/live/7/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX Sports
-http://apk2.futeboltvgratis.com:8081/live/4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX Sports 2
-http://apk2.futeboltvgratis.com:8081/live/5/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL
-http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
-
-############################################################ INFANTIL ##############################################################
-
-#EXTINF:-1 tvg-logo="https://lut.im/BgRU4QJFvj/Sv8nCJhyzW76S5sD.png" group-title="INFANTIL", Nickelodeon
-https://wi4.azureedge.net//hls1/nick.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISCOVERY KIDS
-https://rcc3.azureedge.net//hls1/disneyjunior.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISNEY JR
-http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1068.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cartoon.png" group-title="INFANTIL", Cartoon Network
-http://95.211.149.215:8081/look/cartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/sh1ip2DP5J/8jScIxZVtuPkIwxY.JPG" group-title="INFANTIL", Retrô Cartoon
-http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
-
-############################################################ CLIPS ##############################################################
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/clipes.png" group-title="CLIPs", Gospel Music Television
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/hittv.png" group-title="CLIPs", HIT TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="CLIPs", Virgin TV
-http://fms.105.net:1935/live/virgin2%20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lut.im/4y8jHEbp1i/yiJenIEcnPH1SnDl.png" group-title="CLIPs", Retrô TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?fix
 
-#EXTINF:-1 tvg-logo="https://lut.im/89tXWicGke/tmTcKXThqKnJUQzE.png" group-title="CLIPs", Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="CLIPs", NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="CLIPs", DanceTV
-http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CLIPs", Capital TiVù
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
-############################################################ RADIO ##############################################################
-
-
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Antena1 FM
 http://51.254.243.74:80/stream2
-
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", QTalk America
-http://173.192.105.231:8566/stream
 
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", PRIDE1
 http://185.45.248.12:8000/stream
@@ -157,20 +54,11 @@ http://94.23.148.11:8266/stream
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Radio Party
 http://178.33.232.230:8005/stream
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Aqui Sertanejo
-http://170.75.144.242:13802/stream
-
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Axé Folia
 http://192.99.150.31:8305/stream
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", MGT Sertaneja
-http://144.217.31.169:80/1/stream
-
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Pagode
 http://192.99.150.31:9113/stream
-
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Rádio Sertanejão
-http://209.126.127.202:9382/stream
 
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Sertanejo Universitário
 http://192.99.150.31:9191/stream
@@ -178,5 +66,3 @@ http://192.99.150.31:9191/stream
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Super K FM
 http://144.217.64.13:7040/stream
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", Jovem Pan
-http://109.235.67.25:8010/jppatos/
