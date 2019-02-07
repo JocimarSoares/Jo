@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-http://bit.ly/TestadorIPTVVideoApresentacao
-
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?EDSONSOUSALIST
 
