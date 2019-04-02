@@ -27,6 +27,12 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cancaonova.png" group-title="CANAL ABERTO", TV Canção Nova
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", TV Record
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO", TV Record News ES
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 
