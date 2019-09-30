@@ -42,13 +42,13 @@ http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lut.im/4y8jHEbp1i/yiJenIEcnPH1SnDl.png" group-title="CLIPs", TV Retrô
+#EXTINF:-1 tvg-logo="https://www.luken.tv/uploads/2/6/7/5/2675315/rtv.png" group-title="CLIPs", TV Retrô
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?fix
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="CLIPs", NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lut.im/DohumQPtaj/bHnDcFvUoqWl8dWr.png" group-title="CLIPs", TV Capital TiVù
+#EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/Capital-Radio-Logo.png" group-title="CLIPs", TV Capital TiVù
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/02/Wesley_Safad%C3%A3o_Ao_Vivo_em_Bras%C3%ADlia.jpg" group-title="CLIPs", Wesley Safadão Ao Vivo Em Brasilia
