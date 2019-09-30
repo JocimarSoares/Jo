@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais", TV Globo
-http://207.180.242.63:8080/hls/globorj/6_5/index.m3u8?
+http://207.180.242.63:8080/hls/globorj/2_1/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="Canais", viva
 http://23.237.132.90:8080/VIVA/tracks-v1a1/mono.m3u8
