@@ -27,8 +27,6 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/amazonsat.png" group-title="CANAIS", TV AmazonSat
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lut.im/92pOCiaEap/gXmhc5awJkTEX8S9.png" group-title="CANAIS", TV Rede New
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cancaonova.png" group-title="CANAIS", TV Canção Nova
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
@@ -54,8 +52,7 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/02/Wesley_Safad%C3%A3o_Ao_Vivo_em_Bras%C3%ADlia.jpg" group-title="CLIPs", Wesley Safadão Ao Vivo Em Brasilia
 http://archive.org/download/WesleySafadaoAoVivoEmBrasilia/Wesley_Safad%C3%A3o_-_Ao_Vivo_em_Brasilia.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="CLIPs", Marília Mendonça 2019
-https://www.youtube.com/watch?v=_Y6Yhm6GM1E
+
 
 
 
@@ -64,6 +61,8 @@ https://ia800700.us.archive.org/27/items/OReiLeo1994720p210GJI/O_Rei_Le%C3%A3o_1
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/85/05/19962187.jpg" group-title="FILMES", Rrrrrrr! - Na Idade da Pedra
 https://ia801408.us.archive.org/5/items/rrrrrrrnaidadedapedra.2004/RRRrrrr%20Na%20Idade%20da%20Pedra.2004.ogv
+
+
 
 
 
