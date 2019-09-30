@@ -18,7 +18,7 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="CANAIS", viva
 http://23.237.132.90:8080/VIVA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS", TV Cultura
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="CANAIS", TV Cultura
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?ChannelsON
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAIS", TV Escola
