@@ -29,3 +29,8 @@
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Pagode http://192.99.150.31:9113/stream
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Sertanejo Universitário http://192.99.150.31:9191/stream
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Super K FM http://144.217.64.13:7040/stream
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="CANAIS", Space http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_a366be5cbad78e20f6bbb23c2b9560a30a0a1280/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvgazeta.png" group-title="CANAIS", TV Gazeta HD http://edge.aovivo.club/hls/s:95.216.15.44:81/tvgazetahd_8f98b68c_e6523af381b9040c83410d6d61ed078fa2cb286b/270p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="SPORT", Fox Sports 
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="SPORT", SporTV http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_e9dcc998eedd56d1a285730de9da25ad8090e242/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv2.png" group-title="SPORT", SporTV2 
