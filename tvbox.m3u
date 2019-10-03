@@ -155,7 +155,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_a2dafda8dbc537
 http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_7a53fdb8e257621fe5fd2221c422cd67ea9c1499.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="SPORT", SporTV
-http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_e9dcc998eedd56d1a285730de9da25ad8090e242/playlist.m3u8
+http://tvnanet.xyz:8890/live/fla/gre/10.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv2.png" group-title="SPORT", SporTV2
 http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_e9dcc998eedd56d1a285730de9da25ad8090e242/playlist.m3u8
