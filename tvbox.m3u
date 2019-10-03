@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS", TV Globo
-http://tvnanet.xyz:8890/live/fla/gre/1.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8d0d86b066355edc131f031f3f34b9750a75b3e5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAIS", TV SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?EDSONSOUSALIST
@@ -19,7 +19,7 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
 http://23.237.132.90:8080/VIVA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="CANAIS", Warner Channel
-http://edge.aovivo.club/hls/s:45.32.217.66/warnerchannel_0a57cb53_46395190006c848c5f53a6e963b6f6fffe8cae34/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:45.32.217.66/warnerchannel_0a57cb53_adfef064bc59cef99026c9d7785d95903650b6fc/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="CANAIS", Multishow
 http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_3f19d38bb009e71fc62dac580ee436df61be0570.m3u8
@@ -100,10 +100,10 @@ http://edge.aovivo.club/hls/s:45.32.217.66/mtvbrasil_7719a1c7_fd8f8c7b1c809f2f66
 http://edge.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_4594ca641179cebf585a7ad64606acd16cfb4ea0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="TV PAGA", Telecine Premium
-http://edge.aovivo.club/hls/s:155.138.227.45/telecinepremium_a929eb33_be9581b4e1b6738d9dd9eee27d7dea17d04d7850/480p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.226.22/telecinepremium_a929eb33_02d6ebb6f032fbc913dbd647433aae209cd5c2b2/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png" group-title="TV PAGA", Telecine Pipoca
-http://edge.aovivo.club/hls/s:45.32.217.66/telecinepipoca_fd937516_c133fb4b8bb1b0bba8bfaeab7287e79fdba52f79/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.156/telecinepipoca_fd937516_9581edac563d4c7aa5e167be61280eada851215d/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="TV PAGA", Telecine Pipoca HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_db0bd93b8ad0472b0c94e3807b0a43cfd7331b43.m3u8
@@ -149,7 +149,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_ed269692a205b841
 http://edge.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_ad1d523fdf14757c0847b84f75b1fce574c2cc8d.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="SPORT", Fox Sports
-http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_ca067647a2d23dbefa42cb09c8e247326212bd02.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_39d18701a001de3cdde0ce50dc3f991a66f5808a.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports2.png" group-title="SPORT", Fox Sports 2
 http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_a2dafda8dbc5375de8f3c88dcbfcc6a692aca9c4.m3u8
