@@ -30,6 +30,9 @@ http://edge.aovivo.club/hls/s:45.32.217.66/discoverychannel_af3e1334_bb4a997cfb1
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="CANAIS", Discovery Home & Health
 http://edge.aovivo.club/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_b5f1dd31e093c038e6d97e7d9057270ef7f26571.m3u8
 
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/max.png" group-title="CANAIS", Max
+0
+
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="CANAIS", National Geographic
 http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_ddeb3d63385a7182e3506c11f7c605081b8ebf62/720p/chunklist.m3u8http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_ddeb3d63385a7182e3506c11f7c605081b8ebf62/720p/chunklist.m3u8http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_ddeb3d63385a7182e3506c11f7c605081b8ebf62/720p/chunklist.m3u8
 
@@ -114,9 +117,9 @@ http://edge.aovivo.club/hls/s:155.138.227.156/telecinefun_ae1e7198_dc44ea3f2b064
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fox.png" group-title="TV PAGA", Fox
 http://edge.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_b6104dde683e1667626d49832ec1afe0d130d457.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxpremium1.png" group-title="TV PAGA", Fox Premium 1
 http://edge.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_de34b20347341e648618cba20cdf8ae488a4885a.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png" group-title="TV PAGA", TNT
 http://edge.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_ab99c133f7418e7bd84ffb4f453ca3f2cb459466.m3u8
