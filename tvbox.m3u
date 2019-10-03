@@ -31,16 +31,16 @@ http://edge.aovivo.club/hls/s:45.32.217.66/discoverychannel_af3e1334_bb4a997cfb1
 http://edge.aovivo.club/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_b5f1dd31e093c038e6d97e7d9057270ef7f26571.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/max.png" group-title="CANAIS", Max
-0
+http://edge.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_bb6a84b3f4d4c18eac298752d4cd37d2c929618c/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="CANAIS", National Geographic
-http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_ddeb3d63385a7182e3506c11f7c605081b8ebf62/720p/chunklist.m3u8http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_ddeb3d63385a7182e3506c11f7c605081b8ebf62/720p/chunklist.m3u8http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_ddeb3d63385a7182e3506c11f7c605081b8ebf62/720p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.45/nationalgeographic_2e01e174_5d0787f27597f74ea850ea24ba20d6d06385aeac/720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title="CANAIS", H2
 0
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globonews.png" group-title="CANAIS", Globo News
-0
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globonews_dc685e2c_d05a6d91fd0f046e0bdbb56065b961cc83b0e605.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/amc.png" group-title="CANAIS", AMC Brasil
 http://edge.aovivo.club/hls/s:45.32.217.66/amcbrasil_b7f5113f_2b0a883f277cf24adfda9664f07324fded061f0d/410p/chunklist.m3u8
@@ -67,7 +67,7 @@ http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="CANAIS", Space
-http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_3271426516eee9cd231565e48282659f303a74f2/playlist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_7ac2139f063d462c6ebc4f7d9d39be8a92802453/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvgazeta.png" group-title="CANAIS", TV Gazeta HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/tvgazetahd_8f98b68c_e6523af381b9040c83410d6d61ed078fa2cb286b/270p/chunklist.m3u8
