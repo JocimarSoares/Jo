@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_e9dcc998eedd56d1a285730de9da25ad8090e242/playlist.m3u8" group-title="C", Chappie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/71/Chappie_poster.jpg/200px-Chappie_poster.jpg" group-title="C", Chappie
 https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg" group-title="H", Hellboy
