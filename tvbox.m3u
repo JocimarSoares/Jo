@@ -49,7 +49,7 @@ http://edge.aovivo.club/hls/s:155.138.227.156/fx_667be543_5476786c96727541c4602c
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?ChannelsON
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAIS", TV Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+http://tvnanet.xyz:8890/live/fla/gre/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/amazonsat.png" group-title="CANAIS", TV AmazonSat
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
@@ -184,7 +184,7 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/02/Wesley_Safad%C3%A3o_Ao_Vivo_em_Bras%C3%ADlia.jpg" group-title="CLIPs", Wesley Safadão Ao Vivo Em Brasilia
 http://archive.org/download/WesleySafadaoAoVivoEmBrasilia/Wesley_Safad%C3%A3o_-_Ao_Vivo_em_Brasilia.mp4
 
-#EXTINF:-1 tvg-logo="http://originaconteudo.com.br/wp-content/uploads/2018/10/chappie-02.jpg" group-title="FILMES", Chappie
+#EXTINF:-1 tvg-logo="http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_e9dcc998eedd56d1a285730de9da25ad8090e242/playlist.m3u8" group-title="FILMES", Chappie
 https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e5/TLK_2019.jpg" group-title="FILMES", O Rei Leão I
