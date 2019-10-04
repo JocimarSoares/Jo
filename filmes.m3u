@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qcWzkP9XoAE53y9KAFhJcb6Gb2E.jpg" group-title="A", A Maldição da Bela Adormecida
+https://process.filestackapi.com/ADNupMnWyR7kCWRvm76Laz/https://bucket-a03.unitplay.stream/movie/hd/388440-the-curse-of-sleeping-beauty.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/71/Chappie_poster.jpg/200px-Chappie_poster.jpg" group-title="C", Chappie
 https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
 
