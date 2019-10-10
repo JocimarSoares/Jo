@@ -149,7 +149,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_ed269692a205b841
 http://edge.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_ad1d523fdf14757c0847b84f75b1fce574c2cc8d.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="SPORT", Fox Sports
-http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_39d18701a001de3cdde0ce50dc3f991a66f5808a.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_74cfbdb4bf2c88decc2dc908f15ad11fa60e35bd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports2.png" group-title="SPORT", Fox Sports 2
 http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_a2dafda8dbc5375de8f3c88dcbfcc6a692aca9c4.m3u8
