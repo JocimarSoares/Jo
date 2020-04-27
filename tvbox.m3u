@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS", TV Globo
-http://www.3mb3d.co/foxsports2.php
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8d0d86b066355edc131f031f3f34b9750a75b3e5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAIS", TV SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?EDSONSOUSALIST
@@ -149,7 +149,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_ed269692a205b841
 http://edge.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_ad1d523fdf14757c0847b84f75b1fce574c2cc8d.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="SPORT", Fox Sports
-http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_74cfbdb4bf2c88decc2dc908f15ad11fa60e35bd/playlist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_39d18701a001de3cdde0ce50dc3f991a66f5808a.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports2.png" group-title="SPORT", Fox Sports 2
 http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_a2dafda8dbc5375de8f3c88dcbfcc6a692aca9c4.m3u8
@@ -158,7 +158,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_a2dafda8dbc537
 http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_7a53fdb8e257621fe5fd2221c422cd67ea9c1499.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="SPORT", SporTV
-http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_74cfbdb4bf2c88decc2dc908f15ad11fa60e35bd/playlist.m3u8
+http://tvnanet.xyz:8890/live/fla/gre/10.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv2.png" group-title="SPORT", SporTV2
 http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_a2dafda8dbc5375de8f3c88dcbfcc6a692aca9c4.m3u8
@@ -187,37 +187,31 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/02/Wesley_Safad%C3%A3o_Ao_Vivo_em_Bras%C3%ADlia.jpg" group-title="CLIPs", Wesley Safadão Ao Vivo Em Brasilia
 http://archive.org/download/WesleySafadaoAoVivoEmBrasilia/Wesley_Safad%C3%A3o_-_Ao_Vivo_em_Brasilia.mp4
 
-#EXTINF:-1 tvg-logo="http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_e9dcc998eedd56d1a285730de9da25ad8090e242/playlist.m3u8" group-title="FILMES", Chappie
-https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e5/TLK_2019.jpg" group-title="FILMES", O Rei Leão I
-https://ia800700.us.archive.org/27/items/OReiLeo1994720p210GJI/O_Rei_Le%C3%A3o_1994_720p_210GJI.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e5/TLK_2019.jpg" group-title="FILMES", O Rei Leão II - O Reino de Simba
-https://ia800700.us.archive.org/19/items/OReiLeo2OReinoDeSimba1998720p210GJI/O%20Rei%20Leão%202%20-%20O%20Reino%20de%20Simba%20%281998%29%20720p%20-%20210GJI.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/85/05/19962187.jpg" group-title="FILMES", Rrrrrrr! - Na Idade da Pedra
-https://ia601400.us.archive.org/26/items/na.idade.da.pedra.2004.720p/Na.Idade.da.Pedra.2004.720p.mp4
-
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/5IUhKIWCKCOvUTgCn0wj-fJEDRI=/e.glbimg.com/og/ed/f/original/2017/04/20/238746923-exoplanet-1.jpg" group-title="DOCUMETÁRIO", A Vida Fora Da Terra
 https://ia800100.us.archive.org/10/items/AVidaForaDaTerra/A%20Vida%20fora%20da%20terra.mp4
 
 #EXTINF:-1 tvg-logo="https://www.mundopositivo.com.br/wp-content/uploads/2018/06/ciencia-se-aproxima-da-descoberta-de-vida-fora-da-terra-diz-astronomo-1.jpg" group-title="DOCUMETÁRIO", A HISTÓRIA DA TERRA
 https://ia800807.us.archive.org/35/items/AHISTORIADATERRA-Dublado/A%20HIST%C3%93RIA%20DA%20TERRA%20-%20Dublado.mp4
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Antena1 FM
+#EXTINF:-1 tvg-logo="" group-title="FILMES", BLOODSHOT
+https://doc-0g-3k-docs.googleusercontent.com/docs/securesc/577r6chjbl2b13ituq3vs5ik1vtpfnqj/pm8ka9883ah541lmpbvs3ej6bstpo1k0/1588031175000/00708228706810649121/00708228706810649121/1pF4sFxwnLn9n9HFBGTQWdWF1exMwSbAw?e=download&authuser=1&nonce=ldcqab4e2bqpa&user=00708228706810649121&hash=qc7i6q5pv056mhiukfqbpc99hlfjq2os
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES", Na Idade da Pedra
+https://doc-0o-3k-docs.googleusercontent.com/docs/securesc/577r6chjbl2b13ituq3vs5ik1vtpfnqj/as6c5d33b33h5mf08nk2co393vh8rc5u/1588031400000/00708228706810649121/00708228706810649121/1IgCq-ufuRcqvf0aDMMOfQmwfycXsnu1E?e=download&authuser=1
+
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO Antena1 FM
 http://51.254.243.74:80/stream2
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO PRIDE1
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO PRIDE1
 http://185.45.248.12:8000/stream
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Pidi
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO Pidi
 http://94.23.148.11:8266/stream
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Axé Folia
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO Axé Folia
 http://192.99.150.31:8305/stream
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Pagode
+#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO Pagode
 http://192.99.150.31:9113/stream
 
 #EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Sertanejo Universitário
