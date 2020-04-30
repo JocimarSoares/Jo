@@ -6,7 +6,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8d0d86b066355edc1
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAIS", TV SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?EDSONSOUSALIST
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS", TV Record
+#EXTINF:-1 tvg-logo="https://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="CANAIS", TV Record
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="CANAIS", TV Band
@@ -193,29 +193,32 @@ https://ia800100.us.archive.org/10/items/AVidaForaDaTerra/A%20Vida%20fora%20da%2
 #EXTINF:-1 tvg-logo="https://www.mundopositivo.com.br/wp-content/uploads/2018/06/ciencia-se-aproxima-da-descoberta-de-vida-fora-da-terra-diz-astronomo-1.jpg" group-title="DOCUMETÁRIO", A HISTÓRIA DA TERRA
 https://ia800807.us.archive.org/35/items/AHISTORIADATERRA-Dublado/A%20HIST%C3%93RIA%20DA%20TERRA%20-%20Dublado.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", BLOODSHOT
-https://drive.google.com/file/d/1pF4sFxwnLn9n9HFBGTQWdWF1exMwSbAw/view
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/694/full/Bloodshot.jpg" group-title="FILMES", BLOODSHOT
+0
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES", Na Idade da Pedra
-https://drive.google.com/file/d/1IgCq-ufuRcqvf0aDMMOfQmwfycXsnu1E/view
+0
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO Antena1 FM
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/752/full/Chappie.jpg" group-title="FILMES", Chappie
+https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Antena1 FM
 http://51.254.243.74:80/stream2
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO PRIDE1
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO PRIDE1
 http://185.45.248.12:8000/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO Pidi
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Pidi
 http://94.23.148.11:8266/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO Axé Folia
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Axé Folia
 http://192.99.150.31:8305/stream
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO", RADIO Pagode
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Pagode
 http://192.99.150.31:9113/stream
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Sertanejo Universitário
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Sertanejo Universitário
 http://192.99.150.31:9191/stream
 
-#EXTINF:-1 tvg-logo="http://www.revistaei.com.br/wp-content/uploads/2016/11/dad01257845021.png" group-title="RADIO", RADIO Super K FM
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Super K FM
 http://144.217.64.13:7040/stream
