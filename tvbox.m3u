@@ -4,13 +4,13 @@
 http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8d0d86b066355edc131f031f3f34b9750a75b3e5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAIS ABERTOS", TV SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="CANAIS ABERTOS", TV Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="CANAIS ABERTOS", TV Band
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="CANAIS ABERTOS", TV RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
@@ -18,38 +18,17 @@ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="CANAIS ABERTOS", viva
 http://23.237.132.90:8080/VIVA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/177/thumb/REDE_VIDA.jpg" group-title="CANAIS ABERTOS", REDE VIDA
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/177/thumb/REDE_VIDA.jpg" group-title="CANAIS ABERTOS", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="CANAIS ABERTOS", Warner Channel
-http://edge.aovivo.club/hls/s:45.32.217.66/warnerchannel_0a57cb53_adfef064bc59cef99026c9d7785d95903650b6fc/410p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="CANAIS ABERTOS", Multishow
-http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_3f19d38bb009e71fc62dac580ee436df61be0570.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="CANAIS ABERTOS", Discovery Channel
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="CANAIS ABERTOS", Discovery Home & Health
-http://edge.aovivo.club/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_b5f1dd31e093c038e6d97e7d9057270ef7f26571.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/max.png" group-title="CANAIS ABERTOS", Max
-http://edge.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_bb6a84b3f4d4c18eac298752d4cd37d2c929618c/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="CANAIS ABERTOS", National Geographic
-http://edge.aovivo.club/hls/s:155.138.227.45/nationalgeographic_2e01e174_5d0787f27597f74ea850ea24ba20d6d06385aeac/720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title="CANAIS ABERTOS", H2
-0
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/648/thumb/Rede_Fam%C3%ADlia.jpg" group-title="CANAIS ABERTOS", Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globonews.png" group-title="CANAIS ABERTOS", Globo News
 http://edge.aovivo.club/hls/s:95.216.15.44:81/globonews_dc685e2c_d05a6d91fd0f046e0bdbb56065b961cc83b0e605.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/amc.png" group-title="CANAIS ABERTOS", AMC Brasil
 http://edge.aovivo.club/hls/s:45.32.217.66/amcbrasil_b7f5113f_2b0a883f277cf24adfda9664f07324fded061f0d/410p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="CANAIS ABERTOS", FX
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="CANAIS ABERTOS", TV Cultura
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
@@ -69,8 +48,8 @@ http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cancaonova.png" group-title="CANAIS ABERTOS", TV Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAIS ABERTOS", TV Record News ES
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAIS ABERTOS", TV Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redefamilia.png" group-title="CANAIS ABERTOS", TV Rede Família
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
@@ -108,15 +87,39 @@ http://edge.aovivo.club/hls/s:155.138.227.156/disneyjunior_572e2073_839d863cf020
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/mtv.png" group-title="TV PAGA", MTV Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b528441_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="TV PAGA", Warner Channel
+http://edge.aovivo.club/hls/s:45.32.217.66/warnerchannel_0a57cb53_adfef064bc59cef99026c9d7785d95903650b6fc/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="TV PAGA", FX
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="TV PAGA", Multishow
+http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_3f19d38bb009e71fc62dac580ee436df61be0570.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="TV PAGA", Discovery Channel
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="TV PAGA", Discovery Home & Health
+http://edge.aovivo.club/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_b5f1dd31e093c038e6d97e7d9057270ef7f26571.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/max.png" group-title="TV PAGA", Max
+http://edge.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_bb6a84b3f4d4c18eac298752d4cd37d2c929618c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="TV PAGA", National Geographic
+http://edge.aovivo.club/hls/s:155.138.227.45/nationalgeographic_2e01e174_5d0787f27597f74ea850ea24ba20d6d06385aeac/720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title="TV PAGA", H2
+0
+
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/espnbrasil.png" group-title="TV PAGA", Espn Brasil
 http://edge.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_4594ca641179cebf585a7ad64606acd16cfb4ea0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="TV PAGA", Telecine Premium
 http://edge.aovivo.club/hls/s:155.138.226.22/telecinepremium_a929eb33_02d6ebb6f032fbc913dbd647433aae209cd5c2b2/480p/chunklist.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png" group-title="TV PAGA", Telecine Pipoca
 http://edge.aovivo.club/hls/s:155.138.227.156/telecinepipoca_fd937516_9581edac563d4c7aa5e167be61280eada851215d/410p/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="TV PAGA", Telecine Pipoca HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_db0bd93b8ad0472b0c94e3807b0a43cfd7331b43.m3u8
@@ -162,6 +165,18 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_ad1d523fdf14757
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/252/thumb/unnamed.png" group-title="TV PAGA", TV FILMES
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/447/thumb/Patrulha_Canina.jpg" group-title="INFANTIL", Patrulha Canina 01 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/447/thumb/Patrulha_Canina.jpg" group-title="INFANTIL", Patrulha Canina 02 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/GyCg_voT4IlupzejSV7M_UD2vVwO7ZllpjjiQwx1SJpKsu9VR6jHFy4StVl9EiXtqndGQrTPTg=m18
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/447/thumb/Patrulha_Canina.jpg" group-title="INFANTIL", Patrulha Canina 03 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/INIBVmMz9055Y6-PmQrjmorNFH6v0A9LGLHmaOdXppnemHlw1VfZE75GPXCjf7_1VAPTpCEFqA=m18
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/447/thumb/Patrulha_Canina.jpg" group-title="INFANTIL", Patrulha Canina 04 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYuni2WOep5QNfQn2A4cQ0kkG7L3hnzw=m18
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="SPORT", Fox Sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
@@ -211,6 +226,12 @@ https://ia800807.us.archive.org/35/items/AHISTORIADATERRA-Dublado/A%20HIST%C3%93
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/622/118/full/Documentary.jpg" group-title="DOCUMETÁRIO", Energia ilimitada para a Sociedade
 http://archive.org/download/EnergiaIlimitadaParaASociedade/Energia%20ilimitada%20para%20a%20sociedade.mp4
 
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/622/118/full/Documentary.jpg" group-title="DOCUMETÁRIO", Raiva - O Virus Mortal
+http://archive.org/download/RAIVAOVIRUSMORTAL/RAIVA%20O%20VIRUS%20MORTAL%20%20-%20Animal%20Planet%20%28720p_30fps_H264-192kbit_AAC%29.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/622/118/full/Documentary.jpg" group-title="DOCUMETÁRIO", Os Segredos do Petróleo
+http://archive.org/download/iptvfoz2020_gmail_Mmsp/mmsp.mp4
+
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/694/full/Bloodshot.jpg" group-title="FILMES", BLOODSHOT
 https://ia601406.us.archive.org/27/items/bloodshot-2020-720p/Bloodshot%202020%20720p.mp4
 
@@ -219,6 +240,15 @@ https://ia601406.us.archive.org/27/items/bloodshot-2020-720p/Bloodshot%202020%20
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/752/full/Chappie.jpg" group-title="FILMES", Chappie
 https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/489/thumb/O_Banqueiro.jpg" group-title="FILMES", O Banqueiro
+http://aranami.lhmtv.gq/filmes/O%20Banqueiro%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/501/thumb/O_Po%C3%A7o.jpeg" group-title="FILMES", O Poço
+http://aranami.lhmtv.gq/filmes/O%20Po%C3%A7o%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/527/thumb/P%C3%A1ginas_da_Morte.jpg" group-title="FILMES", Páginas da Morte
+http://aranami.lhmtv.gq/filmes/P%C3%A1ginas%20da%20Morte%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Antena1 FM
 http://51.254.243.74:80/stream2
@@ -229,22 +259,28 @@ http://192.99.150.31:8371/stream?
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", KIDS
 http://192.99.150.31:9431/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO PRIDE1
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", PRIDE
 http://185.45.248.12:8000/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Pidi
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Pidi
 http://94.23.148.11:8266/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Axé Folia
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Axé Folia
 http://192.99.150.31:8305/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Pagode
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Pagode
 http://192.99.150.31:9113/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Sertanejo Universitário
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Vagalume Pagode
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Sertanejo Universitário
 http://192.99.150.31:9191/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Super K FM
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Super K FM
 http://144.217.64.13:7040/stream
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 70
