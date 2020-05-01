@@ -1,79 +1,91 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS", TV Globo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS", TV Globo
 http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8d0d86b066355edc131f031f3f34b9750a75b3e5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAIS", TV SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAIS ABERTOS", TV SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="CANAIS", TV Record
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1 tvg-logo="https://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="CANAIS ABERTOS", TV Record
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="CANAIS", TV Band
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="CANAIS ABERTOS", TV Band
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="CANAIS", TV RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="CANAIS ABERTOS", TV RedeTV!
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="CANAIS", viva
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="CANAIS ABERTOS", viva
 http://23.237.132.90:8080/VIVA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="CANAIS", Warner Channel
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/177/thumb/REDE_VIDA.jpg" group-title="CANAIS ABERTOS", REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="CANAIS ABERTOS", Warner Channel
 http://edge.aovivo.club/hls/s:45.32.217.66/warnerchannel_0a57cb53_adfef064bc59cef99026c9d7785d95903650b6fc/410p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="CANAIS", Multishow
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="CANAIS ABERTOS", Multishow
 http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_3f19d38bb009e71fc62dac580ee436df61be0570.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="CANAIS", Discovery Channel
-http://edge.aovivo.club/hls/s:45.32.217.66/discoverychannel_af3e1334_bb4a997cfb1af791b1397be18054a9544179945f/480p_810kbit/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="CANAIS ABERTOS", Discovery Channel
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="CANAIS", Discovery Home & Health
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="CANAIS ABERTOS", Discovery Home & Health
 http://edge.aovivo.club/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_b5f1dd31e093c038e6d97e7d9057270ef7f26571.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/max.png" group-title="CANAIS", Max
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/max.png" group-title="CANAIS ABERTOS", Max
 http://edge.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_bb6a84b3f4d4c18eac298752d4cd37d2c929618c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="CANAIS", National Geographic
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="CANAIS ABERTOS", National Geographic
 http://edge.aovivo.club/hls/s:155.138.227.45/nationalgeographic_2e01e174_5d0787f27597f74ea850ea24ba20d6d06385aeac/720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title="CANAIS", H2
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title="CANAIS ABERTOS", H2
 0
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globonews.png" group-title="CANAIS", Globo News
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globonews.png" group-title="CANAIS ABERTOS", Globo News
 http://edge.aovivo.club/hls/s:95.216.15.44:81/globonews_dc685e2c_d05a6d91fd0f046e0bdbb56065b961cc83b0e605.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/amc.png" group-title="CANAIS", AMC Brasil
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/amc.png" group-title="CANAIS ABERTOS", AMC Brasil
 http://edge.aovivo.club/hls/s:45.32.217.66/amcbrasil_b7f5113f_2b0a883f277cf24adfda9664f07324fded061f0d/410p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="CANAIS", FX
-http://edge.aovivo.club/hls/s:155.138.227.156/fx_667be543_5476786c96727541c4602c5adc6ead2c8bac2e5b/720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="CANAIS ABERTOS", FX
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="CANAIS", TV Cultura
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?ChannelsON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="CANAIS ABERTOS", TV Cultura
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAIS", TV Escola
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/236/thumb/TVE.jpg" group-title="CANAIS ABERTOS", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAIS ABERTOS", TV Escola
 http://tvnanet.xyz:8890/live/fla/gre/8.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/amazonsat.png" group-title="CANAIS", TV AmazonSat
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/amazonsat.png" group-title="CANAIS ABERTOS", TV AmazonSat
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cancaonova.png" group-title="CANAIS", TV Canção Nova
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/219/thumb/TV_NOVO_TEMPO.jpg" group-title="CANAIS ABERTOS", TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAIS", TV Record News ES
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cancaonova.png" group-title="CANAIS ABERTOS", TV Canção Nova
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAIS ABERTOS", TV Record News ES
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redefamilia.png" group-title="CANAIS", TV Rede Família
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redefamilia.png" group-title="CANAIS ABERTOS", TV Rede Família
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="CANAIS", Space
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="CANAIS ABERTOS", Space
 http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_7ac2139f063d462c6ebc4f7d9d39be8a92802453/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvgazeta.png" group-title="CANAIS", TV Gazeta HD
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvgazeta.png" group-title="CANAIS ABERTOS", TV Gazeta HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/tvgazetahd_8f98b68c_e6523af381b9040c83410d6d61ed078fa2cb286b/270p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png" group-title="TV PAGA", Cartoon Network
 http://edge.aovivo.club/hls/s:155.138.227.45/cartoonnetwork_511a418e_6de6a0dd1956259d91c4557d3d384658e0f33958/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/258/thumb/GOSPEL_CARTOON.jpg" group-title="TV PAGA", GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/nick.png" group-title="TV PAGA", Nickelodeon
 http://edge.aovivo.club/hls/s:155.138.227.156/nickelodeon_bc33ea4e_31968df8d0349fbbd7cb215a496d6ceed5006b3d/410p/chunklist.m3u8
@@ -94,7 +106,7 @@ http://edge.aovivo.club/hls/s:155.138.226.22/discoverykids_80e28a51_82cd7d068db1
 http://edge.aovivo.club/hls/s:155.138.227.156/disneyjunior_572e2073_839d863cf020cf0cfe0f29242337da717198d1be/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/mtv.png" group-title="TV PAGA", MTV Brasil
-http://edge.aovivo.club/hls/s:45.32.217.66/mtvbrasil_7719a1c7_fd8f8c7b1c809f2f667d99729732f4477a108001/410p/chunklist.m3u8
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b528441_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/espnbrasil.png" group-title="TV PAGA", Espn Brasil
 http://edge.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_4594ca641179cebf585a7ad64606acd16cfb4ea0/playlist.m3u8
@@ -104,6 +116,7 @@ http://edge.aovivo.club/hls/s:155.138.226.22/telecinepremium_a929eb33_02d6ebb6f0
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png" group-title="TV PAGA", Telecine Pipoca
 http://edge.aovivo.club/hls/s:155.138.227.156/telecinepipoca_fd937516_9581edac563d4c7aa5e167be61280eada851215d/410p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="TV PAGA", Telecine Pipoca HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_db0bd93b8ad0472b0c94e3807b0a43cfd7331b43.m3u8
@@ -116,7 +129,6 @@ http://edge.aovivo.club/hls/s:155.138.227.156/telecinefun_ae1e7198_dc44ea3f2b064
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fox.png" group-title="TV PAGA", Fox
 http://edge.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_b6104dde683e1667626d49832ec1afe0d130d457.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxpremium1.png" group-title="TV PAGA", Fox Premium 1
 http://edge.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_de34b20347341e648618cba20cdf8ae488a4885a.m3u8
@@ -148,8 +160,11 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_ed269692a205b841
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="TV PAGA", HBO Family
 http://edge.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_ad1d523fdf14757c0847b84f75b1fce574c2cc8d.m3u8
 
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/252/thumb/unnamed.png" group-title="TV PAGA", TV FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="SPORT", Fox Sports
-http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_39d18701a001de3cdde0ce50dc3f991a66f5808a.m3u8
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports2.png" group-title="SPORT", Fox Sports 2
 http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_a2dafda8dbc5375de8f3c88dcbfcc6a692aca9c4.m3u8
@@ -190,13 +205,16 @@ http://archive.org/download/WesleySafadaoAoVivoEmBrasilia/Wesley_Safad%C3%A3o_-_
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/622/118/full/Documentary.jpg" group-title="DOCUMETÁRIO", A Vida Fora Da Terra
 https://ia800100.us.archive.org/10/items/AVidaForaDaTerra/A%20Vida%20fora%20da%20terra.mp4
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/622/118/full/Documentary.jpg" group-title="DOCUMETÁRIO", A HISTÓRIA DA TERRA
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/622/118/full/Documentary.jpg" group-title="DOCUMETÁRIO", A história da Terra
 https://ia800807.us.archive.org/35/items/AHISTORIADATERRA-Dublado/A%20HIST%C3%93RIA%20DA%20TERRA%20-%20Dublado.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/622/118/full/Documentary.jpg" group-title="DOCUMETÁRIO", Energia ilimitada para a Sociedade
+http://archive.org/download/EnergiaIlimitadaParaASociedade/Energia%20ilimitada%20para%20a%20sociedade.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/694/full/Bloodshot.jpg" group-title="FILMES", BLOODSHOT
 https://ia601406.us.archive.org/27/items/bloodshot-2020-720p/Bloodshot%202020%20720p.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", Na Idade da Pedra
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/106/thumb/Na_idade_da_pedra.jpg" group-title="FILMES", Na Idade da Pedra
 0
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/752/full/Chappie.jpg" group-title="FILMES", Chappie
@@ -204,6 +222,12 @@ https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Antena1 FM
 http://51.254.243.74:80/stream2
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", HISTÓRIA INFANTIL
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", KIDS
+http://192.99.150.31:9431/stream?
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO PRIDE1
 http://185.45.248.12:8000/stream
@@ -222,3 +246,36 @@ http://192.99.150.31:9191/stream
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Super K FM
 http://144.217.64.13:7040/stream
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 70
+http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 80
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 90
+http://192.99.150.31:8056/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ELETRÔNICAS
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", TECHNO
+http://192.99.150.31:8301/stream
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", FORRÓ
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", MPB
+http://192.99.150.31:8775/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", MÚSICA CLÁSSICA
+http://6d9a.webradio.upx.net.br:9970/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", POP HITs
+http://6d9a.webradio.upx.net.br:9046/stream?
