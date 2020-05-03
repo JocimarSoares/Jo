@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/626/108/thumb/COLABORE01.jpg" group-title="CANAIS ABERTOS", COLABORE
-https://ia801502.us.archive.org/23/items/colabore-h/ColaboreH.ia.mp4
+https://ia601501.us.archive.org/21/items/colabore_20200503/Colabore.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS", TV Globo
 https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
@@ -247,11 +247,20 @@ https://ia801005.us.archive.org/32/items/osesseniosjesuscristofundamentalistasps
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/694/full/Bloodshot.jpg" group-title="FILMES", BLOODSHOT
 https://ia801406.us.archive.org/27/items/bloodshot-2020-720p/Bloodshot%202020%20720p.ia.mp4
 
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/739/thumb/Dr_Estranho.jpg" group-title="FILMES", Dr Estranho
+https://ia803001.us.archive.org/35/items/DoutorEstranho2017BluRay720pDubladoWWW.FILMESNOMEGA.INFO/Doutor%20Estranho%20%282017%29%20BluRay%20%5B720p%5D%20Dublado%20-%20WWW.FILMESNOMEGA.INFO.ogv
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/740/thumb/Jumanji_-_Pr%C3%B3ximo_Jogo.png" group-title="FILMES", Jumanji - Próximo Jogo
+https://ia801505.us.archive.org/2/items/jumanji.-proxima.-fase/Jumanji.Proxima.Fase.mp4
+
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/106/thumb/Na_idade_da_pedra.jpg" group-title="FILMES", Na Idade da Pedra
 https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/729/thumb/Alita_Anjo_de_Combate.jpg" group-title="FILMES", Alita Anjo de Combate
 https://ia801408.us.archive.org/32/items/alita-anjo-de-combate/Alita%20-%20Anjo%20de%20Combate%20.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/744/thumb/Valerian.jpg" group-title="FILMES", Valerian
+https://ia800702.us.archive.org/15/items/OExterminadorDoFuturo/valerian.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/752/full/Chappie.jpg" group-title="FILMES", Chappie
 https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
@@ -259,8 +268,23 @@ https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/489/thumb/O_Banqueiro.jpg" group-title="FILMES", O Banqueiro
 http://aranami.lhmtv.gq/filmes/O%20Banqueiro%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
 
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/743/thumb/O_Exterminador_Do_Futuro_II.jpg" group-title="FILMES", O Exterminador do Futuro II
+https://ia800702.us.archive.org/15/items/OExterminadorDoFuturo/o%20exterminador%20do%20futuro.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/748/thumb/O_Exterminador_do_Futuro_-_Destino_Sombrio.jpg" group-title="FILMES", O Exterminador do Futuro - Destino Sombrio
+https://ia601401.us.archive.org/31/items/o.-exterminador.do.-futuro.-destino.-sombrio/O.Exterminador.do.Futuro.Destino.Sombrio.ia.mp4
+
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/501/thumb/O_Po%C3%A7o.jpeg" group-title="FILMES", O Poço
 http://aranami.lhmtv.gq/filmes/O%20Po%C3%A7o%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/745/thumb/alpha.jpeg" group-title="FILMES", Alpha
+https://ia800702.us.archive.org/15/items/OExterminadorDoFuturo/Alfa_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/746/thumb/Corra.jpg" group-title="FILMES", Corra
+https://ia800702.us.archive.org/15/items/OExterminadorDoFuturo/Corra%20480p.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/747/thumb/Fragmentado.jpg" group-title="FILMES", Fragmentado
+https://ia800702.us.archive.org/15/items/OExterminadorDoFuturo/Fragmentado.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/527/thumb/P%C3%A1ginas_da_Morte.jpg" group-title="FILMES", Páginas da Morte
 http://aranami.lhmtv.gq/filmes/P%C3%A1ginas%20da%20Morte%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
@@ -270,6 +294,15 @@ https://ia801508.us.archive.org/16/items/a_maldicao_do_anel_ring_of_the_nibelung
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/708/thumb/O_Quinto_Elemento.jpg" group-title="FILMES", O Quinto Elemento - Espanhol
 https://ia801003.us.archive.org/17/items/elquintoelemento.dvdrip.latino/elquintoelemento.dvdrip.latino.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/738/thumb/Dolittle.jpg" group-title="FILMES", Dr Dolittle - Espanhol
+https://ia601508.us.archive.org/1/items/dolittle_202004/Dolittle.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/742/thumb/Jumanji.png" group-title="FILMES", Jumanji - Espanhol
+https://ia800801.us.archive.org/19/items/Jumanji.1995.LATiNO/Jumanji.1995.LATiNO.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/738/thumb/Dolittle.jpg" group-title="FILMES", Dr Dolittle - Inglês
+https://ia801501.us.archive.org/0/items/dr.dolittlelidearprintsalta121/DR.%20DOLITTLE%20-%20Lidear%20Print%20-%20Salta%20121.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/732/thumb/Contagion.jpg" group-title="FILMES", Contagion - Inglês
 https://ia801506.us.archive.org/1/items/contagion-2011/Contagion%20%282011%29.mp4
