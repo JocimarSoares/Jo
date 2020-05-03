@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/626/108/thumb/COLABORE01.jpg" group-title="CANAIS ABERTOS", COLABORE
-https://ia601504.us.archive.org/25/items/colabore_202005/Colabore.ia.mp4
+https://ia801501.us.archive.org/21/items/colabore_20200503/Colabore.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS", TV Globo
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAIS ABERTOS", TV SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
@@ -19,7 +19,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="CANAIS ABERTOS", viva
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/177/thumb/REDE_VIDA.jpg" group-title="CANAIS ABERTOS", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
@@ -28,10 +28,10 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globonews.png" group-title="CANAIS ABERTOS", Globo News
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/amc.png" group-title="CANAIS ABERTOS", AMC Brasil
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="CANAIS ABERTOS", TV Cultura
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
@@ -40,10 +40,10 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="CANAIS ABERTOS", TV Escola
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/amazonsat.png" group-title="CANAIS ABERTOS", TV AmazonSat
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/219/thumb/TV_NOVO_TEMPO.jpg" group-title="CANAIS ABERTOS", TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
@@ -55,113 +55,113 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/space.png" group-title="CANAIS ABERTOS", Space
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvgazeta.png" group-title="CANAIS ABERTOS", TV Gazeta HD
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png" group-title="TV PAGA", Cartoon Network
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/258/thumb/GOSPEL_CARTOON.jpg" group-title="TV PAGA", GOSPEL CARTOON
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/nick.png" group-title="TV PAGA", Nickelodeon
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="TV PAGA", Disney Channel
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/gloob.png" group-title="TV PAGA", Gloob
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/boomerang.png" group-title="TV PAGA", Boomerang
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/dicoverykids.png" group-title="TV PAGA", Discovery Kids
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneyjr.png" group-title="TV PAGA", Disney Junior
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/mtv.png" group-title="TV PAGA", MTV Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b528441_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="TV PAGA", Warner Channel
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="TV PAGA", FX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="TV PAGA", Multishow
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="TV PAGA", Discovery Channel
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="TV PAGA", Discovery Home & Health
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/max.png" group-title="TV PAGA", Max
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="TV PAGA", National Geographic
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/h2.png" group-title="TV PAGA", H2
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/espnbrasil.png" group-title="TV PAGA", Espn Brasil
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="TV PAGA", Telecine Premium
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png" group-title="TV PAGA", Telecine Pipoca
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="TV PAGA", Telecine Pipoca HD
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcaction.png" group-title="TV PAGA", Telecine Action
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcfun.png" group-title="TV PAGA", Telecine Fun
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fox.png" group-title="TV PAGA", Fox
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxpremium1.png" group-title="TV PAGA", Fox Premium 1
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tnt-100x100.png" group-title="TV PAGA", TNT
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tntseries.png" group-title="TV PAGA", TNT Series
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/animalplanet.png" group-title="TV PAGA", Animal Planet
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/megapix.png" group-title="TV PAGA", Megapix
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title="TV PAGA", History
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryturbo.png" group-title="TV PAGA", Discovery Turbo
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hboplus-1.png" group-title="TV PAGA", HBO Plus
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title="TV PAGA", HBO HD
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="TV PAGA", HBO Family
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/252/thumb/unnamed.png" group-title="TV PAGA", TV FILMES
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
@@ -182,28 +182,28 @@ https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYun
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports2.png" group-title="SPORT", Fox Sports 2
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsportshd.png" group-title="SPORT", Fox Sports HD
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png" group-title="SPORT", SporTV
 http://tvnanet.xyz:8890/live/fla/gre/10.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv2.png" group-title="SPORT", SporTV2
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv3.png" group-title="SPORT", SporTV 3
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv2hd.png" group-title="SPORT", SporTV 2 HD
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiereclubes.png" group-title="SPORT", PFC Clubes
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/premiere2.png" group-title="SPORT", Premiere FC 2
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/690/thumb/Music_Top.png" group-title="CLIPs", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
@@ -245,7 +245,7 @@ http://archive.org/download/iptvfoz2020_gmail_Mmsp/mmsp.mp4
 https://ia801406.us.archive.org/27/items/bloodshot-2020-720p/Bloodshot%202020%20720p.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/106/thumb/Na_idade_da_pedra.jpg" group-title="FILMES", Na Idade da Pedra
-https://ia801505.us.archive.org/13/items/fora-do-ar_202005/Fora%20do%20AR.ia.mp4
+https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/752/full/Chappie.jpg" group-title="FILMES", Chappie
 https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
@@ -259,68 +259,71 @@ http://aranami.lhmtv.gq/filmes/O%20Po%C3%A7o%20Dublado%20Online%20-%20Filmes%20O
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/527/thumb/P%C3%A1ginas_da_Morte.jpg" group-title="FILMES", Páginas da Morte
 http://aranami.lhmtv.gq/filmes/P%C3%A1ginas%20da%20Morte%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Antena1 FM
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/708/thumb/O_Quinto_Elemento.jpg" group-title="FILMES", O Quinto Elemento - Espanhol
+https://ia801003.us.archive.org/17/items/elquintoelemento.dvdrip.latino/elquintoelemento.dvdrip.latino.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Antena1 FM
 http://51.254.243.74:80/stream2
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", HISTÓRIA INFANTIL
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", HISTÓRIA INFANTIL
 http://192.99.150.31:8371/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", KIDS
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", KIDS
 http://192.99.150.31:9431/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", PRIDE
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", PRIDE
 http://185.45.248.12:8000/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Pidi
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Pidi
 http://94.23.148.11:8266/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Axé Folia
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Axé Folia
 http://192.99.150.31:8305/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Pagode Studio Souto
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Pagode Studio Souto
 http://192.99.150.31:9113/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Pagode JP
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Pagode JP
 http://6d9a.webradio.upx.net.br:9061/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Vagalume Pagode
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Vagalume Pagode
 https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Sertanejo Universitário
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Sertanejo Universitário
 http://192.99.150.31:9191/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Vagalume Sertanejo Hits
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Vagalume Sertanejo Hits
 https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Super K FM
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", Super K FM
 http://144.217.64.13:7040/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 70
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 70
 http://192.99.150.31:8241/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 80
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 80
 http://192.99.150.31:8697/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 90
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 90
 http://192.99.150.31:8056/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 2000
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ANOS 2000
 http://6d9a.webradio.upx.net.br:9940/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ELETRÔNICAS
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", ELETRÔNICAS
 http://192.99.150.31:9095/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", TECHNO
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", TECHNO
 http://192.99.150.31:8301/stream
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", FORRÓ
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", FORRÓ
 http://192.99.150.31:9019/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", MPB
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", MPB
 http://192.99.150.31:8775/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", MÚSICA CLÁSSICA
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", MÚSICA CLÁSSICA
 http://6d9a.webradio.upx.net.br:9970/stream?
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", POP HITs
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/697/thumb/R%C3%A1dio_OnLine.jpg" group-title="RADIO", POP HITs
 http://6d9a.webradio.upx.net.br:9046/stream?
