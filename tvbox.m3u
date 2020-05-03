@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/626/108/thumb/COLABORE01.jpg" group-title="CANAIS ABERTOS", COLABORE
-https://videos2.sendvid.com/7d/ae/thcxqov0.mp4?validfrom=1588440522&validto=1588447722&rate=200k&burst=1000k&ip=191.32.189.159&hash=zQJyNQlD7BcAvCmUWZjL%2B7v5vRo%3D
+https://ia801408.us.archive.org/29/items/Colabore/Colabore.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS", TV Globo
-https://r3---sn-gpv7dn7d.googlevideo.com/videoplayback?expire=1588459384&ei=GKOtXubmBNLV8wTm8oawCw&ip=23.236.234.46&id=o-AK26q6HdbwO6SL4RdjjNhCdyxkzzI5MhIbX4_Yg8u90Y&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=757.179&lmt=1579453894489886&fvip=3&fexp=23882514&c=WEB&txp=5511222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AJpPlLswRQIhAJ89mfadVf_hRIj1AXc4NsM2YMMF37vnI97GCXHL5SShAiAZSlnbgCpnnGptfSyOdHiT1nR-9-ZIrYlMxes3LZYgQQ%3D%3D&contentlength=208079441&video_id=iYN5lx6DJs0&title=DIVE+Mr+Bean%21+-+Funny+Clips+-+Mr+Bean+Official&rm=sn-ab5eez7s&req_id=fa019c494f05a3ee&ipbypass=yes&cm2rm=sn-b8u-8pms7d,sn-b8u-bpbe7s&redirect_counter=3&cms_redirect=yes&mh=I0&mip=191.32.189.159&mm=30&mn=sn-gpv7dn7d&ms=nxu&mt=1588445474&mv=m&mvi=2&pl=21&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAK7MN-Gl0jG7v1Yl7sCVqlOsT3NOHEDgHy6QaYlo9BEOAiA7LTFvoKe1vvegghgP2Hk2hhDAmdAdNH5bvwTavEELfw%3D%3D
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8d0d86b066355edc131f031f3f34b9750a75b3e5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAIS ABERTOS", TV SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
@@ -19,7 +19,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_viva_m.png" group-title="CANAIS ABERTOS", viva
-http://23.237.132.90:8080/VIVA/tracks-v1a1/mono.m3u8
+https://ia601504.us.archive.org/12/items/fora-do-ar/Fora%20do%20AR.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/177/thumb/REDE_VIDA.jpg" group-title="CANAIS ABERTOS", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
@@ -64,7 +64,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_7ac2139f063d462c6eb
 http://edge.aovivo.club/hls/s:95.216.15.44:81/tvgazetahd_8f98b68c_e6523af381b9040c83410d6d61ed078fa2cb286b/270p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/626/108/thumb/COLABORE01.jpg" group-title="TV PAGA", COLABORE
-https://videos2.sendvid.com/7d/ae/thcxqov0.mp4?validfrom=1588440522&validto=1588447722&rate=200k&burst=1000k&ip=191.32.189.159&hash=zQJyNQlD7BcAvCmUWZjL%2B7v5vRo%3D
+https://ia801408.us.archive.org/29/items/Colabore/Colabore.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png" group-title="TV PAGA", Cartoon Network
 http://edge.aovivo.club/hls/s:155.138.227.45/cartoonnetwork_511a418e_6de6a0dd1956259d91c4557d3d384658e0f33958/410p/chunklist.m3u8
@@ -173,7 +173,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_ad1d523fdf14757
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/626/108/thumb/COLABORE01.jpg" group-title="INFANTIL", COLABORE
-https://videos2.sendvid.com/7d/ae/thcxqov0.mp4?validfrom=1588440522&validto=1588447722&rate=200k&burst=1000k&ip=191.32.189.159&hash=zQJyNQlD7BcAvCmUWZjL%2B7v5vRo%3D
+https://ia601408.us.archive.org/29/items/Colabore/Colabore.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/447/thumb/Patrulha_Canina.jpg" group-title="INFANTIL", Patrulha Canina 01 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
@@ -188,7 +188,7 @@ https://lh3.googleusercontent.com/INIBVmMz9055Y6-PmQrjmorNFH6v0A9LGLHmaOdXppnemH
 https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYuni2WOep5QNfQn2A4cQ0kkG7L3hnzw=m18
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/626/108/thumb/COLABORE01.jpg" group-title="SPORT", COLABORE
-https://videos2.sendvid.com/7d/ae/thcxqov0.mp4?validfrom=1588440522&validto=1588447722&rate=200k&burst=1000k&ip=191.32.189.159&hash=zQJyNQlD7BcAvCmUWZjL%2B7v5vRo%3D
+https://ia801408.us.archive.org/29/items/Colabore/Colabore.mp4
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="SPORT", Fox Sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
@@ -218,7 +218,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_c4db8a654a
 http://edge.aovivo.club/hls/s:95.216.15.44:81/premiere2_f5b68d74_12d9f775d8667b0270d0e42f14fec8f6838d98f0.m3u8
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/626/108/thumb/COLABORE01.jpg" group-title="CLIPs", COLABORE
-https://videos2.sendvid.com/7d/ae/thcxqov0.mp4?validfrom=1588440522&validto=1588447722&rate=200k&burst=1000k&ip=191.32.189.159&hash=zQJyNQlD7BcAvCmUWZjL%2B7v5vRo%3D
+https://ia601408.us.archive.org/29/items/Colabore/Colabore.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/690/thumb/Music_Top.png" group-title="CLIPs", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
@@ -257,7 +257,7 @@ http://archive.org/download/RAIVAOVIRUSMORTAL/RAIVA%20O%20VIRUS%20MORTAL%20%20-%
 http://archive.org/download/iptvfoz2020_gmail_Mmsp/mmsp.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/626/108/thumb/COLABORE01.jpg" group-title="FILMES", COLABORE
-https://videos2.sendvid.com/7d/ae/thcxqov0.mp4?validfrom=1588440522&validto=1588447722&rate=200k&burst=1000k&ip=191.32.189.159&hash=zQJyNQlD7BcAvCmUWZjL%2B7v5vRo%3D
+https://ia801408.us.archive.org/29/items/Colabore/Colabore.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/694/full/Bloodshot.jpg" group-title="FILMES", BLOODSHOT
 https://ia601406.us.archive.org/27/items/bloodshot-2020-720p/Bloodshot%202020%20720p.mp4
@@ -276,6 +276,9 @@ http://aranami.lhmtv.gq/filmes/O%20Po%C3%A7o%20Dublado%20Online%20-%20Filmes%20O
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/527/thumb/P%C3%A1ginas_da_Morte.jpg" group-title="FILMES", Páginas da Morte
 http://aranami.lhmtv.gq/filmes/P%C3%A1ginas%20da%20Morte%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES", HANCOCK
+https://r1---sn-n4v7knlz.googlevideo.com/videoplayback?expire=1588463639&ei=t7OtXtaeE4bMkgacqo2AAQ&ip=205.185.218.201&id=o-AJJnBL3GooNpovuAB_2RMM3x9pwJH0zr1W2ZbkJ4jUYg&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=5803.641&lmt=1588219273342803&fvip=1&fexp=23882514&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AJpPlLswRgIhAL0LhCBpwOdXp0aDoR1gCxG7z5bb9O8BBmXqqHrOR8MZAiEAwy_T__tHL3S3tCis7ImRveRvdew0YT0PtEZY0J6x5AE%3D&contentlength=354604152&video_id=KPreoK2e09k&title=FILME+DE+A%C3%87%C3%83O+2020+%E2%98%86%E2%98%86%E2%98%86+FIC%C3%87%C3%83O+HANCOCK%E2%98%86%E2%98%86%E2%98%86+MELHORES+FILMES+COMPLETOS+E+DUBLADOS&redirect_counter=1&rm=sn-a5mky7e&req_id=24715fc55644a3ee&cms_redirect=yes&ipbypass=yes&mh=fN&mip=191.32.189.159&mm=31&mn=sn-n4v7knlz&ms=au&mt=1588447183&mv=D&mvi=0&pl=0&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=ALrAebAwRQIhAMyQChezaE83GxYg055RQwL8DW6fAGNSBJ6kqwC4s0iyAiAEnsFZVJAmZfZKK27qAv2GJk5rsAnhBYsVzrfrP8oEVQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/621/754/full/R%C3%A1dio_OnLine.jpg" group-title="RADIO", RADIO Antena1 FM
 http://51.254.243.74:80/stream2
