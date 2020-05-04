@@ -117,7 +117,6 @@ https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="TV PAGA", Telecine Premium
 https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
-
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png" group-title="TV PAGA", Telecine Pipoca
 https://ia801405.us.archive.org/10/items/fora-do-ar_20200503/Fora%20do%20AR.mp4
 
@@ -177,6 +176,9 @@ https://lh3.googleusercontent.com/INIBVmMz9055Y6-PmQrjmorNFH6v0A9LGLHmaOdXppnemH
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/447/thumb/Patrulha_Canina.jpg" group-title="INFANTIL", Patrulha Canina 04 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYuni2WOep5QNfQn2A4cQ0kkG7L3hnzw=m18
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/628/754/thumb/Pin%C3%B3quio_1940.jpg" group-title="INFANTIL", Pinóquio-1940
+https://ia802804.us.archive.org/29/items/pinoquio1940dublado/Pin%C3%B3quio%20%281940%29%20Dublado.ogv
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png" group-title="SPORT", Fox Sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
@@ -267,6 +269,21 @@ https://ia800205.us.archive.org/29/items/Chappie_201601/Chappie.mp4
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/625/489/thumb/O_Banqueiro.jpg" group-title="FILMES", O Banqueiro
 http://aranami.lhmtv.gq/filmes/O%20Banqueiro%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/628/764/thumb/Capit%C3%A3o_Am%C3%A9rica_-_O_Primeiro_Vingador.jpg" group-title="FILMES", Capitão América - O Primeiro Vingador
+https://ia800906.us.archive.org/2/items/CapitoAmricaOPrimeiroVingador20111080p210GJI/Capit%C3%A3o%20Am%C3%A9rica%20-%20O%20Primeiro%20Vingador%20%282011%29%201080p%20-%20210GJI.ogv
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/628/780/thumb/Capit%C3%A3o_Am%C3%A9rica__-_Guerra_Civil.jpg" group-title="FILMES", Capitão América  - Guerra Civil
+https://ia803008.us.archive.org/19/items/capitaoamericaguerracivil2016bdrip480pdublado/Capitao%20America%20-%20Guerra%20Civil%20%282016%29%20BD-RIP%20480p%20Dublado.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/628/795/thumb/Homem_Aranha_-_No_Aranhaverso.png" group-title="FILMES", Homem Aranha - No Aranhaverso
+https://ia800909.us.archive.org/18/items/HomemAranhaNoAranhaversoLegendadoOnlineAssistirFilmeAHDFilmesOnline/Homem-Aranha%20no%20Aranhaverso%20Legendado%20Online%20-%20Assistir%20Filme%20-%20AHD%20Filmes%20Online.ogv
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/628/812/thumb/Homem_de_Ferro.jpg" group-title="FILMES", Homem de Ferro
+https://ia802904.us.archive.org/35/items/homemdeferro_202003/Homem%20de%20Ferro.mp4
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/628/798/thumb/Venom.png" group-title="FILMES", Venom
+https://ia803000.us.archive.org/27/items/VenomDublado/Venom%20-%20Dublado.ogv
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/627/743/thumb/O_Exterminador_Do_Futuro_II.jpg" group-title="FILMES", O Exterminador do Futuro II
 https://ia800702.us.archive.org/15/items/OExterminadorDoFuturo/o%20exterminador%20do%20futuro.mp4
