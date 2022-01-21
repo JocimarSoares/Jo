@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/17/f8/82/17f882c225199a2800a3e4c9e1666fe8.jpg" group-title="Home Raven's", Home_Raven's_T01.E01.P01
-\\servidor\FILMES\2012 720p.mp4
+file://servidor/FILMES/2012%20720p.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/17/f8/82/17f882c225199a2800a3e4c9e1666fe8.jpg" group-title="Home Raven's", Home_Raven's_T01.E01.P02
 https://www.youtube.com/watch?v=kxyLgz6Yg0s&list=PLLm6aGjjY6y8IYRWilPCS60mFJYYjkWPu&index=3
